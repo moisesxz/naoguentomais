@@ -15,6 +15,7 @@ public class Temquedacerto {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+    System.out.println("Minha mensagem!"); 
         // TODO code application logic here
     }
     
